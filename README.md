@@ -1,2 +1,2 @@
 # leonwebsite.github.io
-  frist design
+  HTML and CSS-first design
