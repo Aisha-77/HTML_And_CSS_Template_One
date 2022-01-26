@@ -193,7 +193,7 @@ body{
 
 /*  Start landing section */
 .landing{
-    background-image: url(../Images/landing.jpg);
+    background-image: url(../Images/2847573412_078d8ab66f_b.jpg);
     background-size: cover;
     height: calc(100vh);
     /* position: relative; */
@@ -219,7 +219,6 @@ body{
 .landing .intro-text p{
     line-height: 1.8;
     font-size: 19px;
-
 }
 /*  End landing section */
 
